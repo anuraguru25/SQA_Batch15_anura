@@ -1,2 +1,2 @@
-# SQA_Batch15_anura
-Training
+# SQA_Batch15_anura Development Branch
+Coding for Inventory Management 
